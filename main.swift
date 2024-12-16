@@ -7,7 +7,7 @@
 
 import Foundation
 do {
-    let solution = try Ten()
+    let solution = try Sixteen()
     try solution.execPart1();
     try solution.execPart2();
 } catch let err {
